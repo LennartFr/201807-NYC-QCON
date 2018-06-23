@@ -39,6 +39,8 @@ Every record in the distributed ledger has a timestamp and unique crytographic s
 
 # Programming the Blockchain with Chaincode
 
+<img src="chaindcode.PNG">
+
 http://hyperledger-fabric.readthedocs.io/en/release-1.1/chaincode.html
 
 Chaincode is a program, written in Go, node.js, and eventually in other programming languages such as Java, that implements a prescribed interface. Chaincode runs in a secured Docker container isolated from the endorsing peer process. Chaincode initializes and manages ledger state through transactions submitted by applications.
