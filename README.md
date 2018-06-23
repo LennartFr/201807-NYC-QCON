@@ -45,6 +45,19 @@ A chaincode typically handles business logic agreed to by members of the network
 
 Chaincode like <b> Stored Procedures </b> in Databases.
 
+Like <b>Stored Procedures</b> in a traditional database, handles business logic. http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.htm
+
+<img src="https://farm5.staticflickr.com/4523/38243385192_43d682cf94_o.png" width="910" height="483" alt="Hyperledger helloworld 2">
+<p>  
+Chaincode is a piece of code that is written in one of the supported languages such as Go or Java. It is installed and instantiated through an SDK or CLI onto a network of Hyperledger Fabric peer nodes, enabling interaction with that network's shared ledger. 
+  
+ ### [Consensus](https://www.zurich.ibm.com/blockchain/) 
+ <p>Today, consensus protocols exist in many variations, but all of them need a majority or even a qualified majority (such as 2/3 of the nodes) to be correct, whereas the remaining ones could fail, misbehave, or even act adversarially against finding consensus.
+
+Starting with the celebrated protocols for Byzantine Agreement established in 1982, consensus protocols have found widespread applications for keeping distributed systems healty and making cloud platforms operate continuously. </p> 
+
+
+
 
 # Blockchain Usecases
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
@@ -112,20 +125,6 @@ When we query from where do we retrieve data?  1) from the blockchain chain or 2
 If it is from state db how can it retrieve a specific key because you mentioned "state database holds the last known committed value for any given key" <p> 
 Queries or GetState in chaincode return data from the state db. They will only return the last value for a key. <p>
 If you want to get the entire history for a key, you need to enable the historical database in the configuration of your peer 
-
-### Chaincode.
-Like <b>Stored Procedures</b> in a traditional database, handles business logic. http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.htm
-
-<img src="https://farm5.staticflickr.com/4523/38243385192_43d682cf94_o.png" width="910" height="483" alt="Hyperledger helloworld 2">
-<p>  
-Chaincode is a piece of code that is written in one of the supported languages such as Go or Java. It is installed and instantiated through an SDK or CLI onto a network of Hyperledger Fabric peer nodes, enabling interaction with that network's shared ledger. 
-  
- ### [Consensus](https://www.zurich.ibm.com/blockchain/) 
- <p>Today, consensus protocols exist in many variations, but all of them need a majority or even a qualified majority (such as 2/3 of the nodes) to be correct, whereas the remaining ones could fail, misbehave, or even act adversarially against finding consensus.
-
-Starting with the celebrated protocols for Byzantine Agreement established in 1982, consensus protocols have found widespread applications for keeping distributed systems healty and making cloud platforms operate continuously. </p> 
-
-
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband"> 
   
