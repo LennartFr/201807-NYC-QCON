@@ -39,7 +39,7 @@ Every record in the distributed ledger has a timestamp and unique crytographic s
 
 # Programming the Blockchain with Chaincode
 
-<img src="chaindcode.PNG">
+<img src="chaincode.PNG">
 
 http://hyperledger-fabric.readthedocs.io/en/release-1.1/chaincode.html
 
