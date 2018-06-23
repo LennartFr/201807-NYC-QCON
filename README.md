@@ -43,6 +43,7 @@ Chaincode is a program, written in Go, node.js, and eventually in other programm
 
 A chaincode typically handles business logic agreed to by members of the network, so it may be considered as a “smart contract”. State created by a chaincode is scoped exclusively to that chaincode and can’t be accessed directly by another chaincode. However, within the same network, given the appropriate permission a chaincode may invoke another chaincode to access its state.
 
+Chaincode like <b> Stored Procedures </b> in Databases.
 
 
 # Blockchain Usecases
