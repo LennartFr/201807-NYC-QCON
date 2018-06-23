@@ -178,43 +178,6 @@ In Hyperledger Composer: save data model as a .bna file.
 
 <a href="https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html">IBM Blockchain 101: Quick-start guide for developers. Create your first blockchain network and start coding applications</a>
 
-## Exercise 1: Hyperledger Composer Playground Tutorial 
-<img src="https://farm5.staticflickr.com/4652/39667642831_41001d8453_z.jpg" width="640" height="429" alt="Composer">
-<p>
-  
-[Hyperledger Composer Playground Tutorial](https://composer-playground.mybluemix.net)
-
-<p>
-<a href="https://hyperledger.github.io/composer/introduction/introduction.html">Hyperledger Composer Documentation</a>
-<p>
-<a href="https://hyperledger.github.io/composer/reference/commands.html">Hyperledger Composer Command Line</a>
-<p>
-  
-###  <a href="https://github.com/ibm-silvergate/netcomposer/blob/master/README.md">Hyperledger Fabric Network bootstrapping made simple for experimentation, development and testing</a>  
-
-## Exercise 2 Decentralized energy with Hyperledger Composer
-<a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
-<p>
-Wondering where blockchain might apply in your own life? Interested in energy, sustainability, or climate change? Try your hand at creating a basic blockchain app to interact with a decentralized energy network! The idea behind the app is a neighborhood where residents produce and sell excess solar-panel energy to residents who need it. This is an excellent example of how blockchain can begin to transform our world.   
-<p>
-  
-## Excercise 3 Create the full marbles app
-Go through the <a href="https://github.com/LennartFr/BlockchainNetwork-CompositeJourney">BlockchainNetwork-CompositeJourney</a>
-
-## Exercise 4 [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>
-An enterprise-ready blockchain platform designed to accelerate the development, governance and operation of a multi-institution business network<p>  
-<p>  
-
-[ibm.biz/ibmbctechpaper](http://ibm.biz/ibmbctechpaper)
-
-### Exercise 4.1 Setting up a Blockchain app in the IBM Container Service ready for IBM Blockchain
-[Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
-
-### Exercise 4.2 Setting up a Blockchain app in the IBM Cloud
-<a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
-
-<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
-<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img2.png"><br>
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
